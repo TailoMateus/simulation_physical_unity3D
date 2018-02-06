@@ -3,6 +3,10 @@
 ## Tecnologias
 - Unity
 
+## Versão 
+
+- 5.3.4f1 (32-bit)
+
 ## Fenômenos físicos simulados:
 - Velocidade média
 - Atrito
